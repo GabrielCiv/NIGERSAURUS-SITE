@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Nigersaurus - O Dinossauro de 500 Dentes</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f6f7;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        header {
+            background-color: #2e7d32;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        main {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+        }
+
+        h2 {
+            color: #2e7d32;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        img {
+            max-width: 100%;
+            display: block;
+            margin: 20px auto;
+            border-radius: 8px;
+        }
+
+        ul {
+            margin-left: 20px;
+        }
+
+        footer {
+            background-color: #ddd;
+            text-align: center;
+            padding: 15px;
+            font-size: 0.9em;
+        }
+
+        .curiosidade {
+            background-color: #e8f5e9;
+            border-left: 5px solid #2e7d32;
+            padding: 15px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Nigersaurus</h1>
+    <p>O incrível dinossauro herbívoro de 500 dentes</p>
+</header>
+
+<main>
+    <h2>O que foi o Nigersaurus?</h2>
+    <p>
+        O <strong>Nigersaurus</strong> foi um dinossauro herbívoro que viveu durante o período
+        Cretáceo, aproximadamente há 115 milhões de anos. Ele habitava a região que hoje corresponde
+        ao deserto do Saara, na África.
+    </p>
+
+    <img src="https://static.wikia.nocookie.net/jurassicworld-evolution/images/4/4c/Nigersaurus_JWE2_Profile.png/revision/latest?cb=20220606201511">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzygtbBZ56hFDLOSZygfG72ZVcKvp0eUbmSg&s">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdP2n4UxEryWgoy3LMkEiG_uC2ZwBdyXGAABu0tQIzA&s" alt="Ilustração do Nigersaurus">
+
+    <h2>Características Principais</h2>
+    <ul>
+        <li>Comprimento aproximado de 9 metros</li>
+        <li>Pesava cerca de 4 toneladas</li>
+        <li>Pescoço relativamente curto para um saurópode</li>
+        <li>Cabeça pequena e focinho largo</li>
+        <li>Mais de 500 dentes ao longo da vida</li>
+        <li>Ele foi a insipiração da ferramenta enxada</li>
+    </ul>
+
+    <h2>Os Famosos Dentes</h2>
+    <p>
+        O Nigersaurus é especialmente famoso por seu sistema dentário único.
+        Ele possuía fileiras de dentes que eram constantemente substituídos.
+        Estima-se que seus dentes eram renovados a cada 14 dias.
+    </p>
+
+    <div class="curiosidade">
+        <strong>Curiosidade:</strong> O Nigersaurus mantinha a cabeça inclinada para baixo,
+        o que indica que se alimentava principalmente de plantas rasteiras, como samambaias.
+    </div>
+
+    <h2>Descoberta</h2>
+    <p>
+        Os primeiros fósseis do Nigersaurus foram descobertos na década de 1970,
+        mas a espécie só foi oficialmente descrita em 1999 pelo paleontólogo
+        Paul Sereno e sua equipe.
+    </p>
+
+    <h2>Importância Científica</h2>
+    <p>
+        O Nigersaurus ajudou os cientistas a entender melhor a diversidade dos saurópodes
+        e as diferentes estratégias de alimentação entre os dinossauros herbívoros.
+        Seu crânio extremamente delicado também foi um desafio técnico para a paleontologia.
+    </p>
+</main>
+
+<footer>
+    <p>© 2026 - Página educativa sobre dinossauros</p>
+</footer>
+
+</body>
+</html>
